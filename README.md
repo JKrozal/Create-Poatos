@@ -1,5 +1,4 @@
 <h1>READ ME</h1>
-<h2>Notes</h2>
 <p>This a Minecraft Modpack designed to only work using the CurseForge Application; the modpack will not work without CurseForge. Runs on Minecraft version 1.20.1.
 
 <h2>Mods & Texture Packs</h2>
